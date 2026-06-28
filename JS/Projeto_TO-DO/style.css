@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(34, 7, 132);
+
+}
+#container {
+    margin: auto;
+    height: 500px;
+    width: 350px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+input {
+    border-radius: 5px;
+}
